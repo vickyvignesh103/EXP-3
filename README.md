@@ -42,7 +42,8 @@ switch2.
 Direct connection: CIRCUIT DIAGRAM: 
 Tabulation:1
 
-	![WhatsApp Image 2026-03-24 at 2 29 54 PM](https://github.com/user-attachments/assets/21b61afc-3372-4a24-81d3-df8a4819ea4d)
+![WhatsApp Image 2026-03-24 at 2 29 54 PM](https://github.com/user-attachments/assets/9a7ddfa1-b826-4aaa-84e5-d8ff1beed3ca)
+
 
 ![WhatsApp Image 2026-03-24 at 2 30 24 PM](https://github.com/user-attachments/assets/293aad16-1bef-4bc4-bc05-093a7d8b77d9)
 
